@@ -49931,8 +49931,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Francesco\Desktop\Boolean\Lezione-72_09-02-22_CRUD-SHOW\laravel-base-crud\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Francesco\Desktop\Boolean\Lezione-72_09-02-22_CRUD-SHOW\laravel-base-crud\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/andrea/Documents/boolean/laravel/laravel-base-crud/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/andrea/Documents/boolean/laravel/laravel-base-crud/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
